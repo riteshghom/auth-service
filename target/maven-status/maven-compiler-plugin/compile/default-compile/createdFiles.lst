@@ -1,0 +1,5 @@
+com/homedecorhub/authservice/service/AuthService.class
+com/homedecorhub/authservice/controller/AuthController.class
+com/homedecorhub/authservice/model/User.class
+com/homedecorhub/authservice/AuthServiceApplication.class
+com/homedecorhub/authservice/repository/AuthRepository.class
